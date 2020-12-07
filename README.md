@@ -1,6 +1,17 @@
 # vue-js-project
 
 ## Project setup
+
+### Install VUE globally
+```
+ `npm install -g @vue/cli`
+```
+
+### To check VUE version 
+```
+vue --version
+```
+### To install package for Existig project
 ```
 npm install
 ```
